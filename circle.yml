@@ -34,3 +34,8 @@ test:
   override:
     - >
         ./bin/auto-update.sh;
+
+general:
+  branches:
+    only:
+      - site1
