@@ -1,4 +1,5 @@
 # Pantheon WordPress Auto Update #
+Site1-specific configuration.
 
 ## Description ##
 Automate WordPress core, plugin and theme updates on [Pantheon](https://pantheon.io) with Terminus, CircleCI, WP-CLI, BackstopJS and Slack.
